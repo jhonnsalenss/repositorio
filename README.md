@@ -1,4 +1,4 @@
-# repositorio
+# Crear repositorio desde cero
 Crear repositorio por primera vez
 ## Crear un repositorio remoto
 1. Crear un repositorio nuevo, agrega nombre
