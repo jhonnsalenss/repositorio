@@ -9,7 +9,7 @@ Segun lo que se requiera
 
 ## En repositorio local
 ```
-git init main
+git init
 git add .
 git commit -m "Confirmación inicial"
 ```
