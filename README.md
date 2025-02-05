@@ -41,3 +41,9 @@ git config --global pull.rebase false  # Esto hará que Git realice una fusión 
 ## Vim
 salir (Esc) luego :wq
 
+# Crear rama y subir a a remota
+git checkout -b nombre_de_rama
+git branch
+git add .
+git commit -m "Commit de la rama"
+git push -u origin nombre_de_rama
