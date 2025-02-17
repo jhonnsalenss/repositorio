@@ -15,7 +15,7 @@ git commit -m "Confirmación inicial"
 ```
 ## Fusionar remoto con local
 ```
-git remote add origin https://github.com/jhonnsalenss/repositorio.git
+git remote add origin https://github.com/jhonn/repositorio.git
 git pull origin main --allow-unrelated-histories --no-rebase
 ```
 origin (alias de la repo remota)
@@ -41,7 +41,7 @@ git config --global pull.rebase false  # Esto hará que Git realice una fusión 
 ## Vim
 salir (Esc) luego :wq
 
-# Crear rama y subir a a remota
+# Crear rama y subir a rama remota
 ```
 git checkout -b nombre_de_rama
 git branch       # Ver las ramas
