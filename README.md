@@ -49,3 +49,10 @@ git add .
 git commit -m "Commit de la rama"
 git push -u origin nombre_de_rama
 ```
+
+# Fusionar rama en local
+```
+git checkout [rama_estable]
+git merge [rama_desarrollo]
+git pull origin [rama_estable]
+```
