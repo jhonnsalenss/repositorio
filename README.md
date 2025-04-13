@@ -56,3 +56,8 @@ git checkout [rama_estable]
 git merge [rama_desarrollo]
 git pull origin [rama_estable]
 ```
+
+# Clonar una sola rama de github
+```
+git clone --branch [rama] --single-branch URL-del-repositorio
+```
