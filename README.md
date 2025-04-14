@@ -61,3 +61,9 @@ git pull origin [rama_estable]
 ```
 git clone --branch [rama] --single-branch URL-del-repositorio
 ```
+
+# Crear etiquetas
+```
+git tag -a v1.0.0 -m "Versión estable"  # Crea tag local
+git push origin v1.0.0                   # Sube el tag al remoto
+```
